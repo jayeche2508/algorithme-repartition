@@ -19,9 +19,13 @@ Projet réalisé en binôme dans le cadre de ma formation en BUT Informatique. L
 
 ## Lancer le projet
 
+Ouvrir le notebook `algorithme-repartition.ipynb` avec Jupyter Notebook, puis exécuter les cellules dans l'ordre.
+
 \`\`\`bash
-python main.py
+jupyter notebook sujet_SAE_2025_2026.ipynb
 \`\`\`
+
+Les fichiers `questionnaire_premiere_annee.txt` et `affectation_premiere_annee.json` doivent être présents dans le même dossier.
 
 ## Auteurs
 
