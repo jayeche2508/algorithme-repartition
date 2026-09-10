@@ -12,7 +12,7 @@ Projet réalisé en binôme dans le cadre de ma formation en BUT Informatique. L
 - Nettoyage et structuration des données
 - Algorithme de répartition basé sur des critères définis
 
-## Languages utilisés
+## Technologies utilisés
 
 - Python
 - JSON
