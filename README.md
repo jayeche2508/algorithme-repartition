@@ -50,5 +50,5 @@ Le script exécute d'abord une série de tests unitaires, puis calcule et affich
 
 ## Auteurs
 
-- Carounagarane Jayeche
-- Shayan Issac
+- Jayeche CAROUNAGARANE
+- Shayan ISSAC
